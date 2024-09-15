@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: dtbf
+Specification-Vendor: KSmc_brigade
+Specification-Version: 1
+Implementation-Title: DarkTitleBarForge
+Implementation-Version: 1.0
+Implementation-Vendor: KSmc_brigade
+Implementation-Timestamp: 2024-09-15T20:27:33+0800
+MixinConfigs: dtbf.mixins.json
+
